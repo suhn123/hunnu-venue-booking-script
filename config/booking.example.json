@@ -1,0 +1,7 @@
+{
+    "date": "2023-05-01",
+    "venue_id": 0,
+    "start_time": 0,
+    "duration_minutes": 60,
+    "remark": "example booking payload"
+}
